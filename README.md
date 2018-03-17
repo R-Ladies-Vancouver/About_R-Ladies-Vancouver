@@ -1,5 +1,5 @@
-![Logo] (/images/R-Ladies-Van-Logo.jpg)
 
+![logo](https://github.com/R-Ladies-Vancouver/About_R-Ladies-Vancouver/tree/master/images/R-Ladies-Van-Logo.jpg)
 ---
 # About us
 
