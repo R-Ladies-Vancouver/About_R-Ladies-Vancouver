@@ -8,6 +8,8 @@ The mission of the RLadies Vancouver is to create a friendly and inclusive envir
 
 Everyone is welcome to join our events. You could be a complete novice or a seasoned R user interested in mentoring and networking. This community is for you, join us! Please respect, however, that this group is lady-focused.
 
-Join us on our [Meetup site](https://www.meetup.com/R-Ladies-Vancouver/)
-Follow us on Twitter [@RLadiesVan](https://twitter.com/RLadiesVan)
-Email us: vancouver@rladies.org
+* Join us on our [Meetup site](https://www.meetup.com/R-Ladies-Vancouver/)  
+
+* Follow us on Twitter [@RLadiesVan](https://twitter.com/RLadiesVan)  
+
+* Email us: vancouver@rladies.org
