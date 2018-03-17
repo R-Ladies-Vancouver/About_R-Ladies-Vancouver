@@ -1,5 +1,6 @@
-![alt text] (https://github.com/aposacka/About_R-Ladies-Vancouver-1/blob/master/R-Ladies-Van-Logo%20.jpg)
+![alt text] (R-Ladies-Van-Logo.jpg)
 
+---
 # About us
 
 RLadies Vancouver is a local chapter of R-Ladies Global (https://rladies.org/), a worldwide organization promoting gender diversity in the R community.
