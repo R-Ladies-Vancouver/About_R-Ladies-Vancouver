@@ -1,4 +1,4 @@
-![alt text] (R-Ladies-Van-Logo.jpg)
+![Logo] (images/R-Ladies-Van-Logo.jpg)
 
 ---
 # About us
